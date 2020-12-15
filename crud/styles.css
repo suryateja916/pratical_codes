@@ -1,0 +1,32 @@
+.demmy_card{
+    background-color: darkcyan;
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+input[type="email"]{
+border-bottom:1px solid red;
+}
+.dropdown ul li{
+   
+  display: inline-block ;
+  list-style: none;
+  padding: 10px 10px;
+ 
+}
+.down{
+display: block;
+}
+.down ul {
+  position: absolute;
+display: none;
+  
+  }
+
+.my_input input{
+ display: block;
+ 
+
+}
